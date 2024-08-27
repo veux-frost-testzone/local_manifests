@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Remotes -->
+  <remote name="gh"
+          fetch="https://github.com"
+          clone-depth="1" />
+
+  <!-- Device Tree -->
+  <project path="device/xiaomi/veux" name="veux-frost-testzone/device_xiaomi_veux" remote="gh" revision="14" />
+
+  <!-- Kernel Tree -->
+  <project path="kernel/xiaomi/sm6375" name="dereference23/kernel_xiaomi_sm6375" remote="gh" revision="main" />
+
+  <!-- Vendor Tree -->
+  <project path="vendor/xiaomi/veux" name="veux-frost-testzone/vendor_xiaomi_veux" remote="gh" revision="14" />
+
+  <!-- MIUI Cam -->
+  <project path="vendor/xiaomi/miuicamera-veux" name="veux-frost-testzone/vendor_xiaomi_miuicamera-veux" remote="gh" revision="main" />
+
+  <!-- Dolby -->
+  <project path="hardware/dolby" name="veux-frost-testzone/hardware_dolby" remote="gh" revision="main" />
+
+  <!-- Extras -->
+  <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="gh" revision="lineage-21" />
+
+</manifest>
