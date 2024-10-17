@@ -9,7 +9,7 @@
   <project path="device/xiaomi/veux" name="veux-frost-testzone/device_xiaomi_veux" remote="gh" revision="14" />
 
   <!-- Kernel Tree -->
-  <project path="kernel/xiaomi/sm6375" name="dereference23/kernel_xiaomi_sm6375" remote="gh" revision="main" />
+  <project path="kernel/xiaomi/sm6375" name="veux-frost-testzone/kernel_xiaomi_sm6375" remote="gh" revision="main" />
 
   <!-- Vendor Tree -->
   <project path="vendor/xiaomi/veux" name="veux-frost-testzone/vendor_xiaomi_veux" remote="gh" revision="14" />
