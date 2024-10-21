@@ -17,9 +17,6 @@
   <!-- MIUI Cam -->
   <project path="vendor/xiaomi/miuicamera-veux" name="veux-frost-testzone/vendor_xiaomi_miuicamera-veux" remote="gh" revision="main" />
 
-  <!-- Dolby -->
-  <project path="hardware/dolby" name="veux-frost-testzone/hardware_dolby" remote="gh" revision="main" />
-
   <!-- Extras -->
   <project path="hardware/xiaomi" name="veux-frost-testzone/android_hardware_xiaomi" remote="gh" revision="lineage-22" />
 
